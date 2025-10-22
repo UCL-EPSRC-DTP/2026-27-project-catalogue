@@ -4,5 +4,5 @@ This page lists all the available projects hosted in the Institute of Cardiovasc
 
 Information about Institute of Cardiovascular Science can be found on the [departmental website](https://www.ucl.ac.uk/cardiovascular/ucl-institute-cardiovascular-science)
 
-[2531bd1591](../projects/2531bd1591.md) Personalised risk stratification in aortopathy
+[2531bd1673](../projects/2531bd1673.md) Personalised risk stratification in aortopathy
 
