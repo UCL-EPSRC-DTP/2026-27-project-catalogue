@@ -4,7 +4,7 @@ This page lists all the available projects hosted in the Chemistry department.
 
 Information about Chemistry can be found on the [departmental website](https://www.ucl.ac.uk/chemistry)
 
-[2531bc1593](../projects/2531bc1593.md) Catalytic mitigation of maritime methane emissions – how de we determine efficacy?
+[2531bc1594](../projects/2531bc1594.md) Catalytic mitigation of maritime methane emissions – how de we determine efficacy?
 
 [2531bd1633](../projects/2531bd1633.md) Cooperative Active Colloidal Microrobots
 

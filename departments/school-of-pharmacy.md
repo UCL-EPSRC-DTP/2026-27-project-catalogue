@@ -4,7 +4,7 @@ This page lists all the available projects hosted in the School of Pharmacy depa
 
 Information about School of Pharmacy can be found on the [departmental website](https://www.ucl.ac.uk/pharmacy)
 
-[2531bc1602](../projects/2531bc1602.md) Drug Discovery in a Mass Spectrometer
+[2531bc1603](../projects/2531bc1603.md) Drug Discovery in a Mass Spectrometer
 
 [2531bd1701](../projects/2531bd1701.md) Convection-enhanced delivery of therapeutics for hard-to-reach brain tumours
 

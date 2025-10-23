@@ -4,7 +4,7 @@ This page lists all the available projects hosted in the Electronic and Electric
 
 Information about Electronic and Electrical Engineering (EEE) can be found on the [departmental website](https://www.ucl.ac.uk/electronic-electrical-engineering)
 
-[2531bc1594](../projects/2531bc1594.md) Optimal magnetic control of tokamaks using vacuum harmonics
+[2531bc1595](../projects/2531bc1595.md) Optimal magnetic control of tokamaks using vacuum harmonics
 
 [2531bd1658](../projects/2531bd1658.md) Atomic-Scale Fabrication Scale-up for Silicon Quantum Technologies
 
