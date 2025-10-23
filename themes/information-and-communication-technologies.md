@@ -4,7 +4,7 @@ This page lists all the available projects in the Information and Communication 
 
 Information about Information and Communication Technologies can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/information-and-communication-technologies-theme/)
 
-[2531bd1622](../projects/2531bd1622.md) Better Smartphone Location Determination using Wi-Fi Outdoors
+[2531bd1623](../projects/2531bd1623.md) Better Smartphone Location Determination using Wi-Fi Outdoors
 
 [2531bd1626](../projects/2531bd1626.md) Overlayed Realities: Situated Visualisation and Analyses for managing and predict resilient Urban Systems
 

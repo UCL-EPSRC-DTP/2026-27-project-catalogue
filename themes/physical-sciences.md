@@ -4,9 +4,9 @@ This page lists all the available projects in the Physical Sciences research the
 
 Information about Physical Sciences can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/physical-sciences-theme/)
 
-[2531bc1602](../projects/2531bc1602.md) Drug Discovery in a Mass Spectrometer
+[2531bc1603](../projects/2531bc1603.md) Drug Discovery in a Mass Spectrometer
 
-[2531bd1606](../projects/2531bd1606.md) Human Digital Twins for Exposure-Aware Behavioural Interventions in Learning Environments
+[2531bd1607](../projects/2531bd1607.md) Human Digital Twins for Exposure-Aware Behavioural Interventions in Learning Environments
 
 [2531bd1633](../projects/2531bd1633.md) Cooperative Active Colloidal Microrobots
 
