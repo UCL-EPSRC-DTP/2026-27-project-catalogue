@@ -22,7 +22,7 @@ Information about Healthcare Technologies can be found on [EPSRC’s website](ht
 
 [2531bd1655](../projects/2531bd1655.md) Optimising radiotracers for in vivo detection of cardiac amyloidosis and monitoring of treatment response
 
-[2531bd1656](../projects/2531bd1656.md) Optimising voice cloning for assistive technologies assistive hearing technologies
+[2531bd1656](../projects/2531bd1656.md) Optimising voice cloning for assistive hearing technologies
 
 [2531bd1659](../projects/2531bd1659.md) Brain-controlled wearable soft robot with photo-responsive elastomer
 
