@@ -28,5 +28,5 @@ Information about Information and Communication Technologies can be found on [EP
 
 [2531bd1681](../projects/2531bd1681.md) Resistive Memories Based on Semiconductor-Insulator Structures for Neuromorphic Computing
 
-[2531bd1693](../projects/2531bd1693.md) A Foundational Theory of Information based on Inference
+[2531bd1693](../projects/2531bd1693.md) A Foundational Theory of Information Based on Inference
 
