@@ -6,8 +6,6 @@ Information about Energy and Decarbonisation can be found on [EPSRC’s website]
 
 [2531bc1594](../projects/2531bc1594.md) Catalytic mitigation of maritime methane emissions – how de we determine efficacy?
 
-[2531bc1599](../projects/2531bc1599.md) Development of an Integrated Cryogenic Pump, Electric Motor, and Power Electronics Drive for Hydrogen Fuel Systems
-
 [2531bc1600](../projects/2531bc1600.md) Harnessing Elasto-Inertia Turbulence to drive Net Zero Technologies and Decarbonisation
 
 [2531bd1605](../projects/2531bd1605.md) Enhancing Net-Zero Carbon Cities with Photovoltaic and Green Roof Integration for Adaptation to Extreme Climate Events
