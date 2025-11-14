@@ -22,8 +22,6 @@ Collaborative projects are jointly funded by an external partner organisation, a
 
 [2531bc1598](../projects/2531bc1598.md) Spin qubit shuttling in industry-grade silicon-based quantum processors
 
-UNAVAILABLE - [2531bc1599](../projects/2531bc1599.md) Development of an Integrated Cryogenic Pump, Electric Motor, and Power Electronics Drive for Hydrogen Fuel Systems
-
 [2531bc1600](../projects/2531bc1600.md) Harnessing Elasto-Inertia Turbulence to drive Net Zero Technologies and Decarbonisation
 
 [2531bc1601](../projects/2531bc1601.md) Improving the design and clinical success of orthopaedic implants –experiments and finite element study
