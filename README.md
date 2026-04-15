@@ -2,11 +2,11 @@
 
 This catalogue lists all the projects available for applicants to UELA 2026/27. [See the main website for details on how to apply.]( https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-dtp-studentship)
 
-## **UPDATE FOR UELA 26/27 ROUND 2 (applications deadline on 21/05/2026 at 1pm) **
+## **UPDATE FOR UELA 26/27 ROUND 2 (deadline for applications: 21/05/2026 at 1pm) **
 
 The following projects are accepting applications from **HOME STUDENTS ONLY** (overseas fee status can't be accepted in Round 2). Please carefully check your eligibility [here]( https://www.ucl.ac.uk/study/student-finances/tuition-fees/your-tuition-fees/student-fee-status) before applying.
 
-**- Project 2531bc1597 (collaborative project)** (Faculty of Mathematical and Physical Sciences / London Centre for Nanotechnology)
+**- Project [2531bc1597](https://github.com/UCL-EPSRC-DTP/2026-27-project-catalogue/blob/main/projects/2531bc1597.md) (collaborative project)** (Faculty of Mathematical and Physical Sciences / London Centre for Nanotechnology)
 
 **- Project 2531bc1598 (collaborative project)** (Faculty of Mathematical and Physical Sciences / London Centre for Nanotechnology)
 
