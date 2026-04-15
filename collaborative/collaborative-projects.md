@@ -4,6 +4,10 @@ This page lists all the available collaborative projects.
 
 Collaborative projects are jointly funded by an external partner organisation, and involve time spent on placement at the partner’s premises.
 
+**ROUND 2 ONLY**: [2531bc1597](../projects/2531bc1597.md) Single-exposure Bragg Coherent Diffractive Imaging of Domains in Epitaxial Thin Films
+
+**ROUND 2 ONLY**: [2531bc1598](../projects/2531bc1598.md) Spin qubit shuttling in industry-grade silicon-based quantum processors
+
 [2531bc1590](../projects/2531bc1590.md) Blood Tissue Filtration for Advanced Cell Therapies: Enabling CAR T-Cell Manufacturing and Tissue Engineering Applications
 
 [2531bc1591](../projects/2531bc1591.md) High-throughput screening of mAb formulations to identify sequence/excipient determinants of stability using machine learning
@@ -17,10 +21,6 @@ Collaborative projects are jointly funded by an external partner organisation, a
 [2531bc1595](../projects/2531bc1595.md) Optimal magnetic control of tokamaks using vacuum harmonics
 
 [2531bc1596](../projects/2531bc1596.md) Developing microscopically informed qubit-level noise models in silicon
-
-ROUND 2 ONLY: [2531bc1597](../projects/2531bc1597.md) Single-exposure Bragg Coherent Diffractive Imaging of Domains in Epitaxial Thin Films
-
-ROUND 2 ONLY: [2531bc1598](../projects/2531bc1598.md) Spin qubit shuttling in industry-grade silicon-based quantum processors
 
 [2531bc1600](../projects/2531bc1600.md) Harnessing Elasto-Inertia Turbulence to drive Net Zero Technologies and Decarbonisation
 
