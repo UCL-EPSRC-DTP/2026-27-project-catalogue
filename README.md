@@ -4,13 +4,21 @@ This catalogue lists all the projects available for applicants to UELA 2026/27. 
 
 ## **UPDATE FOR UELA 26/27 ROUND**
 
-The following projects are accepting applications from **HOME STUDENTS ONLY** (overseas fee status can't be accepted in Round 2). Please check your eligibility [here.]( https://www.ucl.ac.uk/study/student-finances/tuition-fees/your-tuition-fees/student-fee-status) :
+The following projects are accepting applications from **HOME STUDENTS ONLY** (overseas fee status can't be accepted in Round 2). Please carefully check your eligibility [here]( https://www.ucl.ac.uk/study/student-finances/tuition-fees/your-tuition-fees/student-fee-status) before applying.
 
 **- Project 2531bc1597 (collaborative project)** (Faculty of Mathematical and Physical Sciences / London Centre for Nanotechnology)
 
 **- Project 2531bc1598 (collaborative project)** (Faculty of Mathematical and Physical Sciences / London Centre for Nanotechnology)
 
 **- Project 2531bd1612 (standard project)** (Faculty of the Built Environment / Bartlett School of Sustainable Construction)
+
+**- Project 2531bd1655 (standard project)** (Faculty of Medical Sciences / Division of Medicine)
+
+**- Project 2531bd1656 (standard project)** (Faculty of Brain Sciences / Division of Psychology and Language Sciences (PALS))
+
+**- Project 2531bd1688 (standard project)** (Faculty of Engineering Sciences / Mechanical Engineering)
+
+**- Project 2531bd1702 (standard project)** (Faculty of Life Sciences / School of Pharmacy)
 
 
 ## How to use the catalogue
