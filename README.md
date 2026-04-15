@@ -10,7 +10,8 @@ The following projects are accepting applications from **HOME STUDENTS ONLY** (o
 
 **- Project 2531bc1598 (collaborative project)** (Faculty of Mathematical and Physical Sciences / London Centre for Nanotechnology)
 
-**- Project [2531bd1612](../projects/2531bd1612.md) (standard project)** (Faculty of the Built Environment / Bartlett School of Sustainable Construction)
+**- Project [2531bd1612](../projects/2531bd1612.md) (standard project)** "Autonomous Collective Construction with Recyclable Modular Building Components"
+(Faculty of the Built Environment / Bartlett School of Sustainable Construction)
 
 **- Project 2531bd1655 (standard project)** (Faculty of Medical Sciences / Division of Medicine)
 
