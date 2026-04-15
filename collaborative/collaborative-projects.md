@@ -4,9 +4,9 @@ This page lists all the available collaborative projects.
 
 Collaborative projects are jointly funded by an external partner organisation, and involve time spent on placement at the partner’s premises.
 
-**ROUND 2 ONLY**: [2531bc1597](../projects/2531bc1597.md) Single-exposure Bragg Coherent Diffractive Imaging of Domains in Epitaxial Thin Films
+**AVAILABLE IN ROUND 2 (ONLY HOME APPLICANTS)**: [2531bc1597](../projects/2531bc1597.md) Single-exposure Bragg Coherent Diffractive Imaging of Domains in Epitaxial Thin Films
 
-**ROUND 2 ONLY**: [2531bc1598](../projects/2531bc1598.md) Spin qubit shuttling in industry-grade silicon-based quantum processors
+**AVAILABLE IN ROUND 2 (ONLY HOME APPLICANTS)**: [2531bc1598](../projects/2531bc1598.md) Spin qubit shuttling in industry-grade silicon-based quantum processors
 
 [2531bc1590](../projects/2531bc1590.md) Blood Tissue Filtration for Advanced Cell Therapies: Enabling CAR T-Cell Manufacturing and Tissue Engineering Applications
 
