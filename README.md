@@ -2,7 +2,7 @@
 
 This catalogue lists all the projects available for applicants to UELA 2026/27. [See the main website for details on how to apply.]( https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-dtp-studentship)
 
-## **UPDATE FOR UELA 26/27 ROUND**
+## **UPDATE FOR UELA 26/27 ROUND 2 (applications deadline on 21/05/2026 at 1pm) **
 
 The following projects are accepting applications from **HOME STUDENTS ONLY** (overseas fee status can't be accepted in Round 2). Please carefully check your eligibility [here]( https://www.ucl.ac.uk/study/student-finances/tuition-fees/your-tuition-fees/student-fee-status) before applying.
 
@@ -10,7 +10,7 @@ The following projects are accepting applications from **HOME STUDENTS ONLY** (o
 
 **- Project 2531bc1598 (collaborative project)** (Faculty of Mathematical and Physical Sciences / London Centre for Nanotechnology)
 
-**- Project 2531bd1612 (standard project)** (Faculty of the Built Environment / Bartlett School of Sustainable Construction)
+**- Project [2531bd1612](../projects/2531bd1612.md) (standard project)** (Faculty of the Built Environment / Bartlett School of Sustainable Construction)
 
 **- Project 2531bd1655 (standard project)** (Faculty of Medical Sciences / Division of Medicine)
 
