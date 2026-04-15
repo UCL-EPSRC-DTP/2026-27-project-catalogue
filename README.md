@@ -2,7 +2,7 @@
 
 This catalogue lists all the projects available for applicants to UELA 2026/27. [See the main website for details on how to apply.]( https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-dtp-studentship)
 
-<code style="color : red">## **UPDATE FOR UELA 26/27 ROUND 2** </code>
+##**<code style="color : red">UPDATE FOR UELA 26/27 ROUND</code>**
 
 The following projects are accepting applications from **HOME STUDENTS ONLY** (overseas fee status can't be accepted in Round 2). Please check your eligibility here: https://www.ucl.ac.uk/study/student-finances/tuition-fees/your-tuition-fees/student-fee-status:
 
