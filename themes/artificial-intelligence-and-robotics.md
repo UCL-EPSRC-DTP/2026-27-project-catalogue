@@ -4,9 +4,9 @@ This page lists all the available projects in the Artificial Intelligence and Ro
 
 Information about Artificial Intelligence and Robotics can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/artificial-intelligence-and-robotics-theme/)
 
-[2531bd1611](../projects/2531bd1611.md) Assessing the Climate Impact of Global AI development
+**AVAILABLE IN ROUND 2 (HOME CANDIDATES ONLY)** [2531bd1612](../projects/2531bd1612.md) Autonomous Collective Construction with Recyclable Modular Building Components
 
-[2531bd1612](../projects/2531bd1612.md) Autonomous Collective Construction with Recyclable Modular Building Components
+[2531bd1611](../projects/2531bd1611.md) Assessing the Climate Impact of Global AI development
 
 [2531bd1640](../projects/2531bd1640.md) Machine Learning for Analysis of X-Ray Photoelectron Spectra
 
@@ -27,4 +27,3 @@ Information about Artificial Intelligence and Robotics can be found on [EPSRC’
 [2531bd1672](../projects/2531bd1672.md) Recursive Multi-Agent Systems for Data Discovery
 
 [2531bd1695](../projects/2531bd1695.md) Machine Learning Algorithms for Predicting the Thermodynamic Stability of Molecular Crystals
-
