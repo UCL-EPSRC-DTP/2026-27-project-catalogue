@@ -2,6 +2,13 @@
 
 This catalogue lists all the projects available for applicants to UELA 2026/27. [See the main website for details on how to apply.]( https://www.ucl.ac.uk/epsrc-doctoral-training/prospective-students/apply-ucl-epsrc-dtp-studentship)
 
+**UPDATE FOR UELA 26/27 ROUND 2**
+
+The following projects are accepting applications from **HOME STUDENTS ONLY** (overseas fee status can't be accepted in Round 2). Please check your eligibility here: https://www.ucl.ac.uk/study/student-finances/tuition-fees/your-tuition-fees/student-fee-status:
+
+' - Project 2531bc1597 (Faculty of Mathematical and Physical Sciences / London Centre for Nanotechnology)
+
+
 
 ## How to use the catalogue
 Each project has its own summary page. All projects have a lead UCL department shown in their summary. Some projects also have a collaborating department if they are interdisciplinary projects. Each project also has a lead supervisor shown in their summary. All students recruited to UCL will also be supported by additional members of a supervisory team - for some projects this may be detailed in the summary, for other it will be finalised after a student begins. Project summaries also contain links to the lead department's UCL webpage, so you can read more about the department, and the lead supervisor's UCL profile page (for the majority of supervisors), so you can read more about the lead supervisor.
