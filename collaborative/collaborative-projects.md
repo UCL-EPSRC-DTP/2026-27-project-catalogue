@@ -18,9 +18,9 @@ Collaborative projects are jointly funded by an external partner organisation, a
 
 [2531bc1596](../projects/2531bc1596.md) Developing microscopically informed qubit-level noise models in silicon
 
-[2531bc1597](../projects/2531bc1597.md) Single-exposure Bragg Coherent Diffractive Imaging of Domains in Epitaxial Thin Films
+ROUND 2 ONLY: [2531bc1597](../projects/2531bc1597.md) Single-exposure Bragg Coherent Diffractive Imaging of Domains in Epitaxial Thin Films
 
-[2531bc1598](../projects/2531bc1598.md) Spin qubit shuttling in industry-grade silicon-based quantum processors
+ROUND 2 ONLY: [2531bc1598](../projects/2531bc1598.md) Spin qubit shuttling in industry-grade silicon-based quantum processors
 
 [2531bc1600](../projects/2531bc1600.md) Harnessing Elasto-Inertia Turbulence to drive Net Zero Technologies and Decarbonisation
 
