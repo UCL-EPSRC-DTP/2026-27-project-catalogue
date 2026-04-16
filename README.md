@@ -6,20 +6,20 @@ This catalogue lists all the projects available for applicants to UELA 2026/27. 
 
 The following projects are accepting applications from **HOME STUDENTS ONLY** (overseas fee status can't be accepted in Round 2). Please carefully check your eligibility [here]( https://www.ucl.ac.uk/study/student-finances/tuition-fees/your-tuition-fees/student-fee-status) before applying.
 
-**- Project [2531bc1597](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bc1597.html) (collaborative project)** (Faculty of Mathematical and Physical Sciences / London Centre for Nanotechnology)
+**- Project [2531bc1597](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bc1597.html) (collaborative project)** "Single-exposure Bragg Coherent Diffractive Imaging of Domains in Epitaxial Thin Films" (Faculty of Mathematical and Physical Sciences / London Centre for Nanotechnology)
 
-**- Project [2531bc1598](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bc1598.html) (collaborative project)** (Faculty of Mathematical and Physical Sciences / London Centre for Nanotechnology)
+**- Project [2531bc1598](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bc1598.html) (collaborative project)** "Spin qubit shuttling in industry-grade silicon-based quantum processors" (Faculty of Mathematical and Physical Sciences / London Centre for Nanotechnology)
 
 **- Project [2531bd1612](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1612.html) (standard project)** "Autonomous Collective Construction with Recyclable Modular Building Components"
 (Faculty of the Built Environment / Bartlett School of Sustainable Construction)
 
-**- Project [2531bd1655](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1655.html) (standard project)** (Faculty of Medical Sciences / Division of Medicine)
+**- Project [2531bd1655](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1655.html) (standard project)** "Optimising radiotracers for in vivo detection of cardiac amyloidosis and monitoring of treatment response" (Faculty of Medical Sciences / Division of Medicine)
 
-**- Project [2531bd1656](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1656.html) (standard project)** (Faculty of Brain Sciences / Division of Psychology and Language Sciences (PALS))
+**- Project [2531bd1656](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1656.html) (standard project)** "Optimising voice cloning for assistive hearing technologies" (Faculty of Brain Sciences / Division of Psychology and Language Sciences (PALS))
 
-**- Project [2531bd1688](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1688.html) (standard project)** (Faculty of Engineering Sciences / Mechanical Engineering)
+**- Project [2531bd1688](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1688.html) (standard project)** "Reducing E-waste by using artificial intelligence to develop repair diagnostic tools to increase lifespan of appliances." (Faculty of Engineering Sciences / Mechanical Engineering)
 
-**- Project [2531bd1702](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1702.html) (standard project)** (Faculty of Life Sciences / School of Pharmacy)
+**- Project [2531bd1702](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1702.html) (standard project)** "Development of an Agent Based Model to Study Combination Therapy to Overcome Antimicrobial Resistance in Gram Negative Bacteria" (Faculty of Life Sciences / School of Pharmacy)
 
 
 ## How to use the catalogue
