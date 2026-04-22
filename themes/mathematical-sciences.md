@@ -4,6 +4,8 @@ This page lists all the available projects in the Mathematical Sciences research
 
 Information about Mathematical Sciences can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/mathematical-sciences-theme/)
 
+**ALL PROJECTS BELOW WERE PART OF ROUND 1 (NOW CLOSED)** 
+
 [2531bd1682](../projects/2531bd1682.md) Fluid Mechanics and Analytical Modelling for Biology and Physics
 
 [2531bd1683](../projects/2531bd1683.md) Mathematical Modelling and Operational Research in Industry and Society
