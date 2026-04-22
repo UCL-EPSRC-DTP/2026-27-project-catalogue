@@ -4,6 +4,8 @@ This page lists all the available projects in the Manufacturing The Future resea
 
 Information about Manufacturing The Future can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/manufacturing-the-future-theme/)
 
+**ALL PROJECTS BELOW WERE PART OF ROUND 1 (NOW CLOSED)** 
+
 [2531bc1592](../projects/2531bc1592.md) Sustainable Manufacture of Biotherapeutics: Depth Filter Fabrication and Performance Evaluation Based on Sustainably Sourced Cellulose Fibres
 
 [2531bd1614](../projects/2531bd1614.md) Securing Critical Material Supply Chains for Hydrogen Production in the UK
