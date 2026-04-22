@@ -4,6 +4,8 @@ This page lists all the available projects hosted in the Chemical Engineering de
 
 Information about Chemical Engineering can be found on the [departmental website](https://www.ucl.ac.uk/chemical-engineering)
 
+**AVAILABLE IN ROUND 2 (HOME CANDIDATES ONLY)** [2531bd1709](../projects/2531bd1709.md) Generative AI-powered framework for optimisation of resilient critical minerals supply chains.
+
 [2531bd1629](../projects/2531bd1629.md) Computational Fluid Dynamics-Guided Design of Taylor-Couette Reactors for Pharmaceutical Crystal and Nanoparticle Synthesis
 
 [2531bd1630](../projects/2531bd1630.md) Data-Efficient Product and Process Optimisation with Bayesian Hybrid Models
