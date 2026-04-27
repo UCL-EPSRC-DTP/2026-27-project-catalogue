@@ -4,7 +4,7 @@ This page lists all the available projects in the Quantum Technologies research 
 
 Information about Quantum Technologies can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/quantum-technologies-theme/)
 
-**AVAILABLE IN ROUND 2 (HOME CANDIDATES ONLY)** [2531bc1598](../projects/2531bc1598.md) Spin qubit shuttling in industry-grade silicon-based quantum processors
+**AVAILABLE IN ROUND 2 (COLLABORATIVE: ACCEPTING HOME AND INTERNATIONAL CANDIDATES)** [2531bc1598](../projects/2531bc1598.md) Spin qubit shuttling in industry-grade silicon-based quantum processors
 
 **ALL PROJECTS BELOW WERE PART OF ROUND 1 (NOW CLOSED)** 
 
