@@ -4,9 +4,13 @@ This page lists all the available collaborative projects.
 
 Collaborative projects are jointly funded by an external partner organisation, and involve time spent on placement at the partner’s premises.
 
-**AVAILABLE IN ROUND 2 (ONLY HOME APPLICANTS)**: [2531bc1597](../projects/2531bc1597.md) Single-exposure Bragg Coherent Diffractive Imaging of Domains in Epitaxial Thin Films
+**AVAILABLE IN ROUND 2 (ACCEPTING HOME AND INTERNATIONAL APPLICANTS)**: [2531bc1595](../projects/2531bc1595.md) Optimal magnetic control of tokamaks using vacuum harmonics
 
-**AVAILABLE IN ROUND 2 (ONLY HOME APPLICANTS)**: [2531bc1598](../projects/2531bc1598.md) Spin qubit shuttling in industry-grade silicon-based quantum processors
+**AVAILABLE IN ROUND 2 (ACCEPTING HOME AND INTERNATIONAL APPLICANTS)**: [2531bc1597](../projects/2531bc1597.md) Single-exposure Bragg Coherent Diffractive Imaging of Domains in Epitaxial Thin Films
+
+**AVAILABLE IN ROUND 2 (ACCEPTING HOME AND INTERNATIONAL APPLICANTS)**: [2531bc1598](../projects/2531bc1598.md) Spin qubit shuttling in industry-grade silicon-based quantum processors
+
+**THE PROJECTS BELOW WERE ONLY AVAILABLE IN ROUND 1 - UNAVAILABLE IN ROUND 2**
 
 [2531bc1590](../projects/2531bc1590.md) Blood Tissue Filtration for Advanced Cell Therapies: Enabling CAR T-Cell Manufacturing and Tissue Engineering Applications
 
@@ -17,8 +21,6 @@ Collaborative projects are jointly funded by an external partner organisation, a
 [2531bc1593](../projects/2531bc1593.md) Time‑Dependent Seismic Risk Assessment: Fault Interaction, Clustering, and Damage Accumulation
 
 [2531bc1594](../projects/2531bc1594.md) Catalytic mitigation of maritime methane emissions – how de we determine efficacy?
-
-[2531bc1595](../projects/2531bc1595.md) Optimal magnetic control of tokamaks using vacuum harmonics
 
 [2531bc1596](../projects/2531bc1596.md) Developing microscopically informed qubit-level noise models in silicon
 
