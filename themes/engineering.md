@@ -4,9 +4,9 @@ This page lists all the available projects in the Engineering research theme.
 
 Information about Engineering can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/engineering-theme/)
 
-**ROUND 1 ONLY (NOW CLOSED)** [2531bc1593](../projects/2531bc1593.md) Time‑Dependent Seismic Risk Assessment: Fault Interaction, Clustering, and Damage Accumulation
+**OPEN FOR APPLICATION IN ROUND 2 (COLLABORATIVE: ACCEPTS HOME AND INTERNATIONAL CANDIDATES)** [2531bc1595](../projects/2531bc1595.md) Optimal magnetic control of tokamaks using vacuum harmonics
 
-**ROUND 1 ONLY (NOW CLOSED)** [2531bc1595](../projects/2531bc1595.md) Optimal magnetic control of tokamaks using vacuum harmonics
+**ROUND 1 ONLY (NOW CLOSED)** [2531bc1593](../projects/2531bc1593.md) Time‑Dependent Seismic Risk Assessment: Fault Interaction, Clustering, and Damage Accumulation
 
 **ROUND 1 ONLY (NOW CLOSED)** [2531bc1602](../projects/2531bc1602.md) A systematic protocol to evaluate earthquake vulnerability models
 
