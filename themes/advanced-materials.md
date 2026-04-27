@@ -4,7 +4,7 @@ This page lists all the available projects in the Advanced Materials research th
 
 Information about Advanced Materials can be found on [EPSRC’s website](https://www.ukri.org/what-we-offer/browse-our-areas-of-investment-and-support/advanced-materials-theme/)
 
-**AVAILABLE IN ROUND 2 (HOME CANDIDATES ONLY)** [2531bc1597](../projects/2531bc1597.md) Single-exposure Bragg Coherent Diffractive Imaging of Domains in Epitaxial Thin Films
+**AVAILABLE IN ROUND 2 (COLLABORATIVE: ACCEPTING HOME AND INTERNATIOAL CANDIDATES)** [2531bc1597](../projects/2531bc1597.md) Single-exposure Bragg Coherent Diffractive Imaging of Domains in Epitaxial Thin Films
 
 **ROUND 1 ONLY (NOW CLOSED)** [2531bd1636](../projects/2531bd1636.md) Development of full-range energy band matching photo-recharged Zn metal batteries
 
