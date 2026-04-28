@@ -39,7 +39,7 @@ Please carefully check your eligibility [here]( https://www.ucl.ac.uk/study/stud
 **UELA reserves the right to withdraw projects at any time, including after applications have been submitted, when necessary.**
 
 
-## How to use the catalogue
+<!--## How to use the catalogue-->
 Each project has its own summary page. All projects have a lead UCL department shown in their summary. Some projects also have a collaborating department if they are interdisciplinary projects. Each project also has a lead supervisor shown in their summary. All students recruited to UCL will also be supported by additional members of a supervisory team - for some projects this may be detailed in the summary, for other it will be finalised after a student begins. Project summaries also contain links to the lead department's UCL webpage, so you can read more about the department, and the lead supervisor's UCL profile page (for the majority of supervisors), so you can read more about the lead supervisor.
 
 UELA reserves the right to withdraw projects at any time, including after applications have been submitted, when necessary.
