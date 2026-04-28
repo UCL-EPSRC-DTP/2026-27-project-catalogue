@@ -4,7 +4,15 @@ This catalogue lists all the projects available for applicants to UELA 2026/27. 
 
 ## **UPDATE FOR UELA 26/27 ROUND 2 (deadline for applications: 21/05/2026 at 1pm) **
 
-**Only the following projects are accepting applications for ROUND 2**. Collaborative projects can accept **INTERNATIONAL CANDIDATES**. Standard projects will only accept **HOME CANDIDATES**. Please carefully check your eligibility [here]( https://www.ucl.ac.uk/study/student-finances/tuition-fees/your-tuition-fees/student-fee-status) before applying.
+**Only the following projects are accepting applications for ROUND 2** 
+
+*** - Standard projects will only accept **HOME CANDIDATES**. 
+
+*** - Collaborative projects can accept **HOME and INTERNATIONAL CANDIDATES**. 
+
+Please carefully check your eligibility [here]( https://www.ucl.ac.uk/study/student-finances/tuition-fees/your-tuition-fees/student-fee-status) before applying.
+
+**LIST OF PROJECTS FOR ROUND 2**
 
 **- Project [2531bc1595](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bc1595.html) (collaborative project)** "Optimal magnetic control of tokamaks using vacuum harmonics" (Faculty of Engineering Sciences / Electronic and Electrical Engineering)
 
