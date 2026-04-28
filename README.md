@@ -10,6 +10,7 @@ This catalogue lists all the projects available for applicants to UELA 2026/27. 
 - Collaborative projects can accept **HOME and INTERNATIONAL CANDIDATES**. 
 
 - Please carefully check your eligibility [here]( https://www.ucl.ac.uk/study/student-finances/tuition-fees/your-tuition-fees/student-fee-status) before applying.
+  
 
 **- Project [2531bc1595](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bc1595.html) (collaborative project)** "Optimal magnetic control of tokamaks using vacuum harmonics" (Faculty of Engineering Sciences / Electronic and Electrical Engineering)
 
