@@ -27,11 +27,16 @@ Please carefully check your eligibility [here]( https://www.ucl.ac.uk/study/stud
 
 **- Project [2531bd1656](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1656.html) (standard project)** "Optimising voice cloning for assistive hearing technologies" (Faculty of Brain Sciences / Division of Psychology and Language Sciences (PALS))
 
+**- Project [2531bd1675](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1675.html) (standard project)** "Building the future of chipmaking with smarter etching." (Faculty of Mathematical and Physical Sciences / London Centre for Nanotechnology)
+
 **- Project [2531bd1688](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1688.html) (standard project)** "Reducing E-waste by using artificial intelligence to develop repair diagnostic tools to increase lifespan of appliances." (Faculty of Engineering Sciences / Mechanical Engineering)
 
 **- Project [2531bd1702](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1702.html) (standard project)** "Development of an Agent Based Model to Study Combination Therapy to Overcome Antimicrobial Resistance in Gram Negative Bacteria" (Faculty of Life Sciences / School of Pharmacy)
 
 **- Project [2531bd1709](https://ucl-epsrc-dtp.github.io/2026-27-project-catalogue/projects/2531bd1709.html) (standard project)** "Generative AI-powered framework for optimisation of resilient critical minerals supply chains" (Faculty of Engineering Sciences / Chemical Engineering)
+
+[!NOTE]
+**UELA reserves the right to withdraw projects at any time, including after applications have been submitted, when necessary.**
 
 
 ## How to use the catalogue
